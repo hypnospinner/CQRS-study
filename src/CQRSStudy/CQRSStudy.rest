@@ -1,0 +1,25 @@
+GET https://localhost:5001/api/factorial/10 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/factorial/0 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/factorial/-1 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/fibonacci/10 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/fibonacci/0 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/fibonacci/-1 HTTP/1.1
+
+###
+
+GET https://localhost:5001/api/results HTTP/1.1
